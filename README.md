@@ -5,7 +5,7 @@
 - Tìm hiểu cách sử dụng thư viện JavaFX, phần mềm Scene Builder.
 - Xây dựng cấu trúc project.
 - Lập trình các class.
-- Vẽ class diagram.
+- Làm hướng dẫn cài đặt sử dụng.
 
 ##NGUYỄN DIỆU LINH - 20162423
 - Tìm hiểu và phụ trách thuật toán của các sort.
